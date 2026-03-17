@@ -1,0 +1,5 @@
+{
+  "name": "Biney Butki Pukulo",
+  "description": "A study assistant for TU BBS 3rd Year students. Upload or capture questions to get answers in Nepali, tailored to the marks allocated.",
+  "requestFramePermissions": ["camera"]
+}
